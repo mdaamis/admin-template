@@ -1,0 +1,30 @@
+#navigation{
+margin: 0px;
+}
+#searchbar{
+    position: absolute;
+    top:7px;
+    left: 203px;
+    width: 1220px;
+    height: 60px;  
+}
+#main{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 73px;
+    left: 204px;
+    width: 1220px;
+    height: 700px;
+}
+.comp{
+    float: left;
+   
+    background-color: aliceblue;
+    margin: 2px 20px 10px 10px ;
+    
+    padding: 20px;
+    border-radius: 20px;
+   
+    
+}

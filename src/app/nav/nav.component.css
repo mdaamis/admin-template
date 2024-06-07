@@ -1,0 +1,17 @@
+nav{
+    background-color: #222;
+    width: 200px;
+    border: solid 2px black;
+    margin: 0px;
+    height:750px;
+    color: blue;
+   
+}
+hr{
+    border: solid 1px lightblue;
+    
+}
+div{
+    padding: 20px;
+    color: antiquewhite;
+}

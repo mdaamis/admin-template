@@ -1,0 +1,22 @@
+div{
+    display: inline;
+}
+
+input{
+    border: 0px;
+    margin-left: 30px;
+    border-radius: 20px;
+    background-color: darkgrey;
+    width: 200px;
+
+}
+#right{
+    float: right;
+}
+hr{
+    border: solid 1px lightblue;
+}
+select{
+    margin: 0;
+    border-radius:10px ;
+}
